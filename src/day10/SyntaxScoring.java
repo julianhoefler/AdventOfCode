@@ -9,6 +9,8 @@ import java.util.List;
 import java.util.Stack;
 import java.util.stream.Collectors;
 
+// Link: https://adventofcode.com/2021/day/10
+
 public class SyntaxScoring {
     static StringBuilder corruptedSigns = new StringBuilder();
 
